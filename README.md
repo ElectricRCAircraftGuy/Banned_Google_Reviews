@@ -13,15 +13,16 @@ It seems to me _people of establishments being reviewed are abusing the purpose 
 <!-- MarkdownTOC -->
 
 1. [License](#license)
+1. [View the Issues Tab to see the banned reviews.](#view-the-issues-tab-to-see-the-banned-reviews)
 1. [Goals](#goals)
     1. [The goals of this repo are as follows:](#the-goals-of-this-repo-are-as-follows)
     1. [What this repo is NOT:](#what-this-repo-is-not)
+1. [Un-banning your banned reviews](#un-banning-your-banned-reviews)
 1. [Seeing your banned reviews](#seeing-your-banned-reviews)
     1. [_How many_ of my reviews, or your own reviews, are banned?](#how-many-of-my-reviews-or-your-own-reviews-are-banned)
     1. [_Which_ of my reviews, or your own reviews, are banned?](#which-of-my-reviews-or-your-own-reviews-are-banned)
         1. [Option 1: paste the share link into an incognito window](#option-1-paste-the-share-link-into-an-incognito-window)
         1. [Option 2: side-by-side comparison](#option-2-side-by-side-comparison)
-1. [View the Issues Tab to see the banned reviews.](#view-the-issues-tab-to-see-the-banned-reviews)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -31,6 +32,10 @@ It seems to me _people of establishments being reviewed are abusing the purpose 
 # License
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+
+<a id="view-the-issues-tab-to-see-the-banned-reviews"></a>
+# View the [Issues Tab](https://github.com/ElectricRCAircraftGuy/Banned_Google_Reviews/issues) to see the banned reviews. 
+I'll slowly start putting some there as I have time. I'll start with the two above.
 
 <a id="goals"></a>
 # Goals
@@ -51,6 +56,14 @@ It seems to me _people of establishments being reviewed are abusing the purpose 
     2. Therefore, if you WANT the government to _force_ private companies to allow "freedom of speech", what your ignorant self is doing is actually _seeking_ an authoritarian government. Go to Iran or North Korea or Russia to get more of that. Let private companies do what they wish. Keep your suppression of private company rights out of the United States, please.
 2. A griping or complaining platform.
      1. While banned reviews are most-likely negative, and you likely _will_ feel cathartic release by contributing to this repo (I know I do!), the purpose of this repo is NOT just to complain. Rather, it's to get your voice back (not freedom of speech voice, as freedom of speech has nothing to do with this private-company-owned-and-hosted repo here), and to help others see the content you felt important enough to share so they can make informed decisions and learn from your experience.
+
+
+<a id="un-banning-your-banned-reviews"></a>
+# Un-banning your banned reviews
+
+To "unban" your banned review, simply delete your current Google Review and then make a new one. 
+
+I recommend copying out the contents before deleting the current one, and [posting it as an issue on this repo](https://github.com/ElectricRCAircraftGuy/Banned_Google_Reviews/issues) if it makes you feel better. Then, write your new review. I suspect that short, succinct, to-the-point reviews are less-likely to be banned or deleted. So, give 'em your 1 star rating if that's what they deserve, write something short, and be done.
 
 
 <a id="seeing-your-banned-reviews"></a>
@@ -103,24 +116,3 @@ To see _which_ reviews are banned, do the following:
 1. Scroll down through your reviews, side-by-side, with one window on the left which is open and logged into your Google Account, and one incognito window on the right that is _not_. 
 2. Compare the two sides. Any reviews which show up in the logged-in window on the left but _not_ in the incognito window on the right are your banned reviews! Here are a couple of mine. I have circled two banned reviews which show up on the left but not the right:
     ![image](https://user-images.githubusercontent.com/6842199/159360605-bb7d924d-bc2c-4da4-a0f0-8f467d665d8b.png)
-
-
-<a id="view-the-issues-tab-to-see-the-banned-reviews"></a>
-# View the [Issues Tab](https://github.com/ElectricRCAircraftGuy/Banned_Google_Reviews/issues) to see the banned reviews. 
-I'll slowly start putting some there as I have time. I'll start with the two above.
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
